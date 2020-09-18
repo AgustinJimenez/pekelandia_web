@@ -1,0 +1,17 @@
+{
+    "name": "Articulos",
+    "alias": "articulos",
+    "description": "",
+    "version": "v0.1",
+    "keywords": [],
+    "active": 1,
+    "order": 1,
+    "providers": [
+        "Modules\\Articulos\\Providers\\ArticulosServiceProvider",
+        "Modules\\Articulos\\Providers\\RouteServiceProvider"
+    ],
+    "aliases":{},
+    "files": [
+        
+    ]
+}
